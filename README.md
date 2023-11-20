@@ -1,12 +1,16 @@
 # QAP_PetFriends_Testing
 
+Тестируемый ресурс: <a href="https://petfriends.skillfactory.ru/" target="_blank">https://petfriends.skillfactory.ru</a>
+
+Описание API-методов доступно по адресу: <a href="https://petfriends.skillfactory.ru/apidocs/#/" target="_blank">https://petfriends.skillfactory.ru/apidocs/#/</a>
+
 **Структура проекта:**
 
 1. Директория _/tests_ содержит файл _test_petfriends.py_ с реализованными тестами.
    
 3. Директория _/tests/images_ содержит фото в разных форматах для реализации теста с добавлением фото питомца.
 
-4. Корневая директория содержит файл _settings.py_ с прописанными в нем валидными догином и паролем.
+4. Корневая директория содержит файл _settings.py_ с прописанными в нем валидными логином и паролем, а также файл _api.py_ с реализованными API-методами.
 
 
 **Список тестов, реализованных в проекте:**
